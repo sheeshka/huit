@@ -30,7 +30,7 @@
                 <a href="#" class="list-group-item">
                     <h4 class="list-group-item-heading">категория первая</h4>
                     <p class="list-group-item-text">
-                        Категория
+                        Категория rjk-dj
                     </p>
                 </a>
             </div>
